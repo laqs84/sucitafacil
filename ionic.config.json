@@ -1,0 +1,8 @@
+{
+  "name": "sucitafacil",
+  "app_id": "f6443b2b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
