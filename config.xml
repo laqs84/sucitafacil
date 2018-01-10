@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="sucitafacil_01" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="PZS3EY65EX.SuCitaFacil" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SuCitaFacil</name>
     <description>ES UNA APLICACIÓN QUE LE PERMITE TANTO AL CLIENTE COMO AL PROVEEDOR DEL SERVICIO AGENDAR CITAS DE MANERA RÁPIDA Y SEGURA.</description>
     <author email="info@sucitafacil.com" href="http://portal.sucitafacil.com/">SuCitaFacil</author>
