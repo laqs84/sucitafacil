@@ -36,6 +36,13 @@
   <!-- cordova.js required for cordova apps (remove if not needed) -->
   <script src="cordova.js"></script>
 
+  <script type="text/javascript">
+    document.addEventListener("deviceready", onDeviceReady, false);
+    function onDeviceReady() {
+        window.open = cordova.InAppBrowser.open;
+    }
+  </script>
+
   <!-- un-comment this code to enable service worker
   <script>
     if ('serviceWorker' in navigator) {
